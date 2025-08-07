@@ -1,4 +1,5 @@
 # 📄 Análise de Alerta de Phishing Seguindo um Playbook
+*(Scroll down for English version)*
 
 Este projeto demonstra o fluxo de trabalho de um Analista de Segurança Nível 1 (SOC) ao responder a um alerta de phishing. O objetivo é aplicar um **playbook** predefinido para garantir uma resposta estruturada, consistente e eficaz, culminando na documentação e escalonamento adequado do incidente.
 
